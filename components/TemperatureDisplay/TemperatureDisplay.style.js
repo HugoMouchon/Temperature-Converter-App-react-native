@@ -3,7 +3,7 @@ import { Colors } from "react-native/Libraries/NewAppScreen";
 
 const s = StyleSheet.create({
     text: {
-        fontSize: 80,
+        fontSize: 65,
         color: "white",
     },
 })
